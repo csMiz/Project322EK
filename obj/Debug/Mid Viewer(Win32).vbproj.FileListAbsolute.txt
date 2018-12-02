@@ -1,0 +1,25 @@
+C:\Users\sscs\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).vbprojResolveAssemblyReference.cache
+C:\Users\sscs\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid_Viewer_Win32_.Form1.resources
+C:\Users\sscs\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid_Viewer_Win32_.Resources.resources
+C:\Users\sscs\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).vbproj.GenerateResource.Cache
+C:\Users\sscs\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).vbproj.CoreCompileInputs.cache
+C:\Users\sscs\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\bin\Debug\Mid Viewer(Win32).exe
+C:\Users\sscs\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\bin\Debug\Mid Viewer(Win32).pdb
+C:\Users\sscs\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\bin\Debug\Mid Viewer(Win32).xml
+C:\Users\sscs\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).exe
+C:\Users\sscs\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).xml
+C:\Users\sscs\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).pdb
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\bin\Debug\Mid Viewer(Win32).exe.config
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\bin\Debug\Mid Viewer(Win32).exe
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\bin\Debug\Mid Viewer(Win32).pdb
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\bin\Debug\Mid Viewer(Win32).xml
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\bin\Debug\SlimDX.dll
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid_Viewer_Win32_.Form1.resources
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid_Viewer_Win32_.Resources.resources
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).vbproj.GenerateResource.cache
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).vbproj.CoreCompileInputs.cache
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).vbproj.CopyComplete
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).exe
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).xml
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).pdb
+C:\Users\asdfg\Desktop\mid\MV Win32\Mid Viewer(Win32)\Mid Viewer(Win32)\obj\Debug\Mid Viewer(Win32).vbprojAssemblyReference.cache
